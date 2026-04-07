@@ -8,11 +8,11 @@ type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Java
+  - Mock Objects
   - Mocking
+  - TDD
   - Testing
   - Unit Testing
-  - TDD
-  - Mock Objects
 humanURL: http://www.jmock.org/
 url: https://raw.githubusercontent.com/api-evangelist/jmock/refs/heads/main/apis.yml
 created: '2024-01-01'
@@ -26,8 +26,8 @@ apis:
       Java tests using an expressive DSL.
     humanURL: http://www.jmock.org/
     tags:
-      - Mocking
       - Java
+      - Mocking
       - Testing
     properties:
       - type: Documentation
