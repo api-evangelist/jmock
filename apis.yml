@@ -35,7 +35,7 @@ apis:
     properties:
       - type: Documentation
         url: http://www.jmock.org/documentation.html
-      - type: Getting Started
+      - type: GettingStarted
         url: http://www.jmock.org/getting-started.html
       - type: Cookbook
         url: http://www.jmock.org/cookbook.html
@@ -43,7 +43,7 @@ apis:
         url: http://www.jmock.org/cheat-sheet.html
       - type: JavaDoc
         url: http://www.jmock.org/javadoc/2.12.0/
-      - type: GitHub Repository
+      - type: GitHubRepository
         url: https://github.com/jmock-developers/jmock-library
       - type: Maven Central
         url: https://mvnrepository.com/artifact/org.jmock/jmock
@@ -52,7 +52,7 @@ common:
     url: http://www.jmock.org/
   - type: Documentation
     url: http://www.jmock.org/documentation.html
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/jmock-developers
   - type: Issues
     url: https://github.com/jmock-developers/jmock-library/issues
