@@ -6,7 +6,7 @@ description: >-
   mock behavior in unit tests, integrating with popular testing frameworks
   including JUnit. The most recent stable release is jMock 2.13.1.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Java
   - Mock Objects
