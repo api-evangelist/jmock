@@ -48,6 +48,8 @@ apis:
       - type: Maven Central
         url: https://mvnrepository.com/artifact/org.jmock/jmock
 common:
+  - type: DomainSecurity
+    url: security/jmock-domain-security.yml
   - type: Website
     url: http://www.jmock.org/
   - type: Documentation
