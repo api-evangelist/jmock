@@ -60,6 +60,11 @@ apis:
       - type: Maven Central
         url: https://mvnrepository.com/artifact/org.jmock/jmock
 common:
+  - type: Releases
+    url: https://github.com/jmock-developers/jmock-library/releases
+  - type: License
+    name: BSD-3-Clause
+    url: https://github.com/jmock-developers/jmock-library/blob/master/LICENSE
   - type: DomainSecurity
     url: security/jmock-domain-security.yml
   - type: Website
